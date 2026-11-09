@@ -80,7 +80,6 @@
     "wd:wordcount":139,
     "wof:belongsto":[
         102191581,
-        101876167,
         85633287,
         85686409
     ],
@@ -96,7 +95,6 @@
         {
             "continent_id":102191581,
             "country_id":85633287,
-            "locality_id":101876167,
             "region_id":85686409
         }
     ],
