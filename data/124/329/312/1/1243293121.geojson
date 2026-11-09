@@ -49,7 +49,7 @@
         "wk:page":"Ord%C4%83%C5%9Fei"
     },
     "wof:country":"MD",
-    "wof:geomhash":"a95a2d0d9428960e6aab543cf59b4daf",
+    "wof:geomhash":"c546c3d87683e81ad1c89e3a58fff19c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     28.49824000000001,
     47.68507
 ],
-  "geometry": {"coordinates":[28.49824000000001,47.68507],"type":"Point"}
+  "geometry": {"coordinates":[28.49824,47.68507],"type":"Point"}
 }

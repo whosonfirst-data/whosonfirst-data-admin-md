@@ -56,7 +56,7 @@
         "wk:page":"C%C3%AE%C8%99la%2C_Cantemir"
     },
     "wof:country":"MD",
-    "wof:geomhash":"ba5131e480e0bcf9319a3b72bbb00fbe",
+    "wof:geomhash":"b6b46ba3fcca0128c5d496b160be338d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     28.33489,
     46.14100000000001
 ],
-  "geometry": {"coordinates":[28.33489,46.14100000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.33489,46.141],"type":"Point"}
 }

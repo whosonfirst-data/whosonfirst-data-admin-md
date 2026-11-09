@@ -61,7 +61,7 @@
         "wk:page":"C%C3%AE%C8%99la%2C_Telene%C8%99ti"
     },
     "wof:country":"MD",
-    "wof:geomhash":"1fb6c47edbc5386de599f9eea7370cc2",
+    "wof:geomhash":"360a7520d24b2e8db3cf91aee26183e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     28.22609000000001,
     47.49345
 ],
-  "geometry": {"coordinates":[28.22609000000001,47.49345],"type":"Point"}
+  "geometry": {"coordinates":[28.22609,47.49345],"type":"Point"}
 }

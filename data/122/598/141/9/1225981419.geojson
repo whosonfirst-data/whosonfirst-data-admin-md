@@ -56,7 +56,7 @@
         "wk:page":"Alexeevca%2C_Flore%C8%99ti"
     },
     "wof:country":"MD",
-    "wof:geomhash":"60db0ad0939201da16d207f4c8c8cadd",
+    "wof:geomhash":"15b20e50a1b74f3dc6b5058835b9aa92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     28.28662000000001,
     47.94275
 ],
-  "geometry": {"coordinates":[28.28662000000001,47.94275],"type":"Point"}
+  "geometry": {"coordinates":[28.28662,47.94275],"type":"Point"}
 }

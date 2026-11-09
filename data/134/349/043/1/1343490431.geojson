@@ -62,7 +62,7 @@
         "wk:page":"V%C4%83ratic%2C_Ialoveni"
     },
     "wof:country":"MD",
-    "wof:geomhash":"718107aa383de021753aa0360fef781c",
+    "wof:geomhash":"329bba1d9c4fc25da1cef60161129838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     29.06411,
     46.81059000000001
 ],
-  "geometry": {"coordinates":[29.06411,46.81059000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.06411,46.81059],"type":"Point"}
 }

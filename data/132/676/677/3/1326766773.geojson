@@ -62,7 +62,7 @@
         "wk:page":"Poiana%2C_%C8%98old%C4%83ne%C8%99ti"
     },
     "wof:country":"MD",
-    "wof:geomhash":"7144a77f46c65efdf57af35c39c0cd2b",
+    "wof:geomhash":"b6a5f3bcc5584f69d276242319e582dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     28.85641,
     47.88679000000001
 ],
-  "geometry": {"coordinates":[28.85641,47.88679000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.85641,47.88679],"type":"Point"}
 }

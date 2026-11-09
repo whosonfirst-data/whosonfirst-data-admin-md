@@ -63,7 +63,7 @@
         "wk:page":"Corjova%2C_Dub%C4%83sari"
     },
     "wof:country":"MD",
-    "wof:geomhash":"53510e5b767912db69e5150d14c4be69",
+    "wof:geomhash":"2fdf42b4d7380b0281da950d432884e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     29.12962000000001,
     47.28766
 ],
-  "geometry": {"coordinates":[29.12962000000001,47.28766],"type":"Point"}
+  "geometry": {"coordinates":[29.12962,47.28766],"type":"Point"}
 }

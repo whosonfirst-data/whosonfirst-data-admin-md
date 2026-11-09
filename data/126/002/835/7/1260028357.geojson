@@ -55,7 +55,7 @@
         "wk:page":"Pociumbeni"
     },
     "wof:country":"MD",
-    "wof:geomhash":"01fb6fa2e0cb303dc8bffa6653d0730a",
+    "wof:geomhash":"0a5f7431c41cf34bf1633ea427f1a51f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     27.30432,
     47.97799000000001
 ],
-  "geometry": {"coordinates":[27.30432,47.97799000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.30432,47.97799],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Chioselia_Rus%C4%83"
     },
     "wof:country":"MD",
-    "wof:geomhash":"ddddbee2019f9679398a2e0fc08d2162",
+    "wof:geomhash":"777d962311caac516ea9f9c7113beb6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     28.51184000000001,
     46.08494
 ],
-  "geometry": {"coordinates":[28.51184000000001,46.08494],"type":"Point"}
+  "geometry": {"coordinates":[28.51184,46.08494],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Redi-Cere%C5%9Fnov%C4%83%C5%A3"
     },
     "wof:country":"MD",
-    "wof:geomhash":"ad8a8d14cf306b21edb6290c8444b275",
+    "wof:geomhash":"fbcaf6491642e7d41a90fe1136cb234a",
     "wof:hierarchy":[
         {
             "country_id":85633287,
@@ -70,5 +70,5 @@
     28.31266,
     48.06339000000001
 ],
-  "geometry": {"coordinates":[28.31266,48.06339000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.31266,48.06339],"type":"Point"}
 }

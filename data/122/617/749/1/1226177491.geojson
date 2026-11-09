@@ -47,7 +47,7 @@
         "wk:page":"Albina%2C_Cimi%C8%99lia"
     },
     "wof:country":"MD",
-    "wof:geomhash":"5c4a0ef0aee6ff7f18778a1fadb48bec",
+    "wof:geomhash":"4a6a45fe95fe146d1ce97e5a2fc23dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     28.6423,
     46.70594000000001
 ],
-  "geometry": {"coordinates":[28.6423,46.70594000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.6423,46.70594],"type":"Point"}
 }

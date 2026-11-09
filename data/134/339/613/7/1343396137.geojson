@@ -51,7 +51,7 @@
         "wk:page":"Ble%C5%9Fteni"
     },
     "wof:country":"MD",
-    "wof:geomhash":"89a6d9fd85058656ee386ee71d600b0a",
+    "wof:geomhash":"abfdd07b505f41d48af73b3c535e65e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     27.21962000000001,
     48.12035
 ],
-  "geometry": {"coordinates":[27.21962000000001,48.12035],"type":"Point"}
+  "geometry": {"coordinates":[27.21962,48.12035],"type":"Point"}
 }

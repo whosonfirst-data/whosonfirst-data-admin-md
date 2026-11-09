@@ -53,7 +53,7 @@
         "wk:page":"Rogojeni%2C_%C8%98old%C4%83ne%C8%99ti"
     },
     "wof:country":"MD",
-    "wof:geomhash":"e2d12dc3b9284dd5d00af710698c1d34",
+    "wof:geomhash":"4cfcf1ccc07569ee0981e6a557a82c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     28.40739,
     47.82579000000001
 ],
-  "geometry": {"coordinates":[28.40739,47.82579000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.40739,47.82579],"type":"Point"}
 }

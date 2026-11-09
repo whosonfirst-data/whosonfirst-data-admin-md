@@ -50,7 +50,7 @@
         "wk:page":"Botn%C4%83re%C5%9Fti"
     },
     "wof:country":"MD",
-    "wof:geomhash":"cbece48a04dfe3958d3210261ef565f8",
+    "wof:geomhash":"b83357d59d5a60da61489a16c35194b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     29.15988,
     46.93004000000001
 ],
-  "geometry": {"coordinates":[29.15988,46.93004000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.15988,46.93004],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Codrul_Nou"
     },
     "wof:country":"MD",
-    "wof:geomhash":"2186009acad3253d76f205633b6fde29",
+    "wof:geomhash":"1dc745f54585b648b5ac256a8e10da31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     28.57567,
     47.54669000000001
 ],
-  "geometry": {"coordinates":[28.57567,47.54669000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.57567,47.54669],"type":"Point"}
 }

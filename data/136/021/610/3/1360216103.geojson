@@ -54,7 +54,7 @@
         "wk:page":"Pereni"
     },
     "wof:country":"MD",
-    "wof:geomhash":"1d867b3f7567dc3929b1ec3ba9903501",
+    "wof:geomhash":"8a82d86e40fd86ba49e8d3c8913d461c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     28.77977000000001,
     47.65581
 ],
-  "geometry": {"coordinates":[28.77977000000001,47.65581],"type":"Point"}
+  "geometry": {"coordinates":[28.77977,47.65581],"type":"Point"}
 }

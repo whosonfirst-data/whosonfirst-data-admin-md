@@ -52,7 +52,7 @@
         "gn:id":831037
     },
     "wof:country":"MD",
-    "wof:geomhash":"e777c13d67a8f3c772be5a5a3d4cd161",
+    "wof:geomhash":"147116c8fafe37c5bfa0fea35ceab468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     28.15314,
     47.34419000000001
 ],
-  "geometry": {"coordinates":[28.15314,47.34419000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.15314,47.34419],"type":"Point"}
 }

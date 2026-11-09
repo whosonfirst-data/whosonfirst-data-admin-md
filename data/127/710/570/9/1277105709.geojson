@@ -52,7 +52,7 @@
         "wk:page":"Ro%C5%9Fietici"
     },
     "wof:country":"MD",
-    "wof:geomhash":"f75a9d89925c4a556739e0892258d520",
+    "wof:geomhash":"d3b77a4ae7457b2bd983589bafdcfba9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     28.40271,
     47.83049000000001
 ],
-  "geometry": {"coordinates":[28.40271,47.83049000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.40271,47.83049],"type":"Point"}
 }

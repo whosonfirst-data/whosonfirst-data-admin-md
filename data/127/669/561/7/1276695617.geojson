@@ -56,7 +56,7 @@
         "wk:page":"T%C4%83t%C4%83r%C4%83uca_Veche"
     },
     "wof:country":"MD",
-    "wof:geomhash":"c71381d9ab9d33c22e6f6b745e213de6",
+    "wof:geomhash":"6e2c7455d251c0485510f9311f1876e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     27.98229000000001,
     48.29843
 ],
-  "geometry": {"coordinates":[27.98229000000001,48.29843],"type":"Point"}
+  "geometry": {"coordinates":[27.98229,48.29843],"type":"Point"}
 }

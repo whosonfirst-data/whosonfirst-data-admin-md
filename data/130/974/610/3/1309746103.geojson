@@ -89,7 +89,7 @@
         "wk:page":"Corne%C8%99ti%2C_Moldova"
     },
     "wof:country":"MD",
-    "wof:geomhash":"60c98f49a2da441832ba3a7073fa4dbc",
+    "wof:geomhash":"9ae9d4838f2812de9744e7fee61fdcdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,5 +114,5 @@
     27.99784,
     47.37009000000001
 ],
-  "geometry": {"coordinates":[27.99784,47.37009000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.99784,47.37009],"type":"Point"}
 }

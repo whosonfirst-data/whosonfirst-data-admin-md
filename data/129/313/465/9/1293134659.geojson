@@ -54,7 +54,7 @@
         "wk:page":"Constantinovca"
     },
     "wof:country":"MD",
-    "wof:geomhash":"92c8dd5f254f767cd509e1f74f322eac",
+    "wof:geomhash":"f0bd0c540bfd48aa892752033fe3555d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     27.10944000000001,
     48.24851
 ],
-  "geometry": {"coordinates":[27.10944000000001,48.24851],"type":"Point"}
+  "geometry": {"coordinates":[27.10944,48.24851],"type":"Point"}
 }
