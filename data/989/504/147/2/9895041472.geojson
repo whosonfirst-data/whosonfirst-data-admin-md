@@ -1,0 +1,72 @@
+{
+  "id": 9895041472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74188,47.53265,27.74188,47.53265",
+    "geom:latitude":47.53265,
+    "geom:longitude":27.74188,
+    "iso:country":"MD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12625796: name \"Fabrica de Zah\u0103r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12625796"
+        },
+        {
+            "citation":"GeoNames populated place 12625796: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12625796"
+        },
+        {
+            "citation":"GeoNames populated place 12625796: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12625796"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686437 (F\u0103le\u015fti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287,
+        85686437,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12625796
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"df2c43c558be3e65f6ac47c8b6ca4a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":9895041472,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":9895041472,
+    "wof:lastmodified":1795735235,
+    "wof:name":"Fabrica de Zah\u0103r",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74188,
+    47.53265,
+    27.74188,
+    47.53265
+],
+  "geometry": {"coordinates":[27.74188,47.53265],"type":"Point"}
+}
