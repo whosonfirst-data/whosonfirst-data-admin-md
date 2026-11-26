@@ -1,0 +1,72 @@
+{
+  "id": 9895041471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.07601,48.06204,27.07601,48.06204",
+    "geom:latitude":48.06204,
+    "geom:longitude":27.07601,
+    "iso:country":"MD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 829549: name \"B\u0103dragii Noi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/829549"
+        },
+        {
+            "citation":"GeoNames populated place 829549: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/829549"
+        },
+        {
+            "citation":"GeoNames populated place 829549: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/829549"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686485 (Edine\u0163), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287,
+        85686485,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829549
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"cc4aa9d20929efeda83f67c8e91ee90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":9895041471,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":9895041471,
+    "wof:lastmodified":1795735235,
+    "wof:name":"B\u0103dragii Noi",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07601,
+    48.06204,
+    27.07601,
+    48.06204
+],
+  "geometry": {"coordinates":[27.07601,48.06204],"type":"Point"}
+}

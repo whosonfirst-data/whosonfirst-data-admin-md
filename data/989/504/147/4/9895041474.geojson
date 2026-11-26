@@ -1,0 +1,72 @@
+{
+  "id": 9895041474,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48295,48.27138,27.48295,48.27138",
+    "geom:latitude":48.27138,
+    "geom:longitude":27.48295,
+    "iso:country":"MD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426755: name \"Redyu-Mare\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426755"
+        },
+        {
+            "citation":"GeoNames populated place 13426755: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426755"
+        },
+        {
+            "citation":"GeoNames populated place 13426755: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426755"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686511 (Ocni\u0163a), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287,
+        85686511,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426755
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b18c229358a860490295496a139fe853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":9895041474,
+            "region_id":85686511
+        }
+    ],
+    "wof:id":9895041474,
+    "wof:lastmodified":1795735235,
+    "wof:name":"Redyu-Mare",
+    "wof:parent_id":85686511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48295,
+    48.27138,
+    27.48295,
+    48.27138
+],
+  "geometry": {"coordinates":[27.48295,48.27138],"type":"Point"}
+}

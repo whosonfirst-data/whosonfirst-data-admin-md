@@ -1,0 +1,72 @@
+{
+  "id": 9895041473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74044,47.54938,27.74044,47.54938",
+    "geom:latitude":47.54938,
+    "geom:longitude":27.74044,
+    "iso:country":"MD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426717: name \"Faleshty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426717"
+        },
+        {
+            "citation":"GeoNames populated place 13426717: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426717"
+        },
+        {
+            "citation":"GeoNames populated place 13426717: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426717"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686437 (F\u0103le\u015fti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287,
+        85686437,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426717
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0b088a8811c82e1d1003e2c7f80cf402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":9895041473,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":9895041473,
+    "wof:lastmodified":1795735235,
+    "wof:name":"Faleshty",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74044,
+    47.54938,
+    27.74044,
+    47.54938
+],
+  "geometry": {"coordinates":[27.74044,47.54938],"type":"Point"}
+}
